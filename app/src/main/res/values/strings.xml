@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FramePrueba</string>
+
+
+    <string name="parrafo_prueba">
+        Lorem ipsum dolor sit amet,consectetur adipiscing elit,\n sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n
+        Ut enim ad minim veniam,\n quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+    </string>
+</resources>
